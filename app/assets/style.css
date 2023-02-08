@@ -48,6 +48,15 @@ image {
   background-color: #dc3545;
 }
 
+.error mark{
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  display: inline-block;
+  color: white;
+  background-color: rgb(121, 22, 40);
+}
+
+
 .search-form {
   margin: auto;
   text-align: center;
